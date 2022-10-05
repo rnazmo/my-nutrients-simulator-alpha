@@ -1,1 +1,3 @@
-# my-nutrients-simulator-alpha
+# myns (alpha)
+
+MY Nutrients Simulator (alpha)
